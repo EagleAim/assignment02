@@ -3,8 +3,8 @@
 
 // 1. Write code to output the following string to the console:
 // "Hello World!"
-let variable1="Hello World!"
-console.log(Variable1)
+let HelloWorld="Hello World!";
+console.log(HelloWorld);
 // 2. Write code to concatenate three strings and output the result to the console:
 // "Hello", " ", "World!"
 
