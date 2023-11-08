@@ -10,16 +10,14 @@ console.log(HelloWorld);
 let Hello="Hello";
 let space=" "
 let World="World!";
-console.log(Hello, space, World);
+console.log(Hello + space + World);
 // 3. Write code to output "Hello" on one line and "World!" on the next line to the console.
 // *Note: You should only have one console.log() statement - how do you add a new line in
 // a string?...
-let Hel = `
-      Hello
-      World!.
-`;
- 
-console.log(Hel);
+let Hel = "Hello";
+let Wor = "World!";
+
+console.log(Hel + "\n" + Wor);
 
 // 4. Write code to output the result of the arithmetic expression to the console:
 // 3 * 8 + 2;
